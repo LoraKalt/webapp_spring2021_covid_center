@@ -1,0 +1,12 @@
+body{
+    margin: 1%;
+}
+article{
+    border-width: medium;
+    border-style:ridge;
+}
+
+
+h1{
+    color: slateblue;
+}
