@@ -1,12 +1,24 @@
-body{
+body {
     margin: 1%;
 }
-article{
+article {
     border-width: medium;
     border-style:ridge;
 }
 
 
-h1{
+h1 {
     color: slateblue;
+}
+
+.invisible {
+    display: none;
+}
+
+.errorMessage {
+    color:red;
+}
+
+.hasError {
+    background-color: yellow;
 }
